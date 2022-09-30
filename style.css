@@ -159,6 +159,9 @@ th, td {
     vertical-align: middle;
     border: solid 1px #852b1b;
 }
+.available:hover {
+    cursor: pointer;
+}
 th:first-child {
     width: 125px;
     height: 50px;
